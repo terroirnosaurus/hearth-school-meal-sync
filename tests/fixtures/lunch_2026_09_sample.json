@@ -1,0 +1,25 @@
+{
+ "data": [
+  {
+   "id": 1451213234,
+   "day": "2026-09-02",
+   "meal_id": 18203673,
+   "setting": "{\"current_display\":[{\"item\":\"Lunch Entree\",\"weight\":0,\"name\":\"Lunch Entree\",\"type\":\"category\"},{\"item\":173852,\"weight\":1,\"name\":\"Cheese Quesadilla\",\"type\":\"recipe\"},{\"item\":1997941,\"weight\":2,\"name\":\"Chicken and Cheese Quesadilla\",\"type\":\"recipe\"},{\"item\":\"Vegetables\",\"weight\":3,\"name\":\"Vegetables\",\"type\":\"category\"},{\"item\":337933,\"weight\":4,\"name\":\"Baby Carrots\",\"type\":\"recipe\"},{\"item\":1179402,\"weight\":5,\"name\":\"Corn Niblets\",\"type\":\"recipe\"},{\"item\":140173,\"weight\":6,\"name\":\"Mild Salsa\",\"type\":\"recipe\"},{\"item\":\"Fruit\",\"weight\":7,\"name\":\"Fruit\",\"type\":\"category\"},{\"item\":140242,\"weight\":8,\"name\":\"Fresh Bananas\",\"type\":\"recipe\"},{\"item\":\"Milk\",\"weight\":9,\"name\":\"Milk\",\"type\":\"category\"},{\"item\":140102,\"weight\":10,\"name\":\"1% White Milk\",\"type\":\"recipe\"},{\"item\":173712,\"weight\":11,\"name\":\"Fat Free White Milk\",\"type\":\"recipe\"}],\"available_recipes\":[173852,337933,140242,140102,1997941,1179402,173712,140173],\"hidden_items\":[{\"item\":\"orig_choice_of\",\"weight\":0,\"name\":\"Choice of\",\"type\":\"text\"},{\"item\":\"orig_with\",\"weight\":0,\"name\":\"With\",\"type\":\"text\"},{\"item\":\"orig_and\",\"weight\":0,\"name\":\"And\",\"type\":\"text\"},{\"item\":\"orig_or\",\"weight\":0,\"name\":\"Or\",\"type\":\"text\"}],\"days_off\":[],\"daily_meal_items\":[]}",
+   "overwritten": false
+  },
+  {
+   "id": 1451213237,
+   "day": "2026-09-07",
+   "meal_id": 18203676,
+   "setting": "{\"current_display\":[],\"available_recipes\":[],\"hidden_items\":[],\"days_off\":{\"status\":1,\"description\":\"Labor Day\"}}",
+   "overwritten": false
+  },
+  {
+   "id": 1451213241,
+   "day": "2026-09-11",
+   "meal_id": 18203680,
+   "setting": "{\"current_display\":[{\"item\":\"Lunch Entree\",\"weight\":0,\"name\":\"Lunch Entree\",\"type\":\"category\"},{\"item\":2190061,\"weight\":1,\"name\":\"Pepperoni Smart Pizza\",\"type\":\"recipe\"},{\"item\":1715117,\"weight\":2,\"name\":\"Cheese French Bread Pizza\",\"type\":\"recipe\"},{\"item\":\"Vegetables\",\"weight\":3,\"name\":\"Vegetables\",\"type\":\"category\"},{\"item\":2042234,\"weight\":4,\"name\":\"Salad Bar\",\"type\":\"recipe\"},{\"item\":\"Fruit\",\"weight\":5,\"name\":\"Fruit\",\"type\":\"category\"},{\"item\":140180,\"weight\":6,\"name\":\"Fresh Oranges\",\"type\":\"recipe\"},{\"item\":1683053,\"weight\":7,\"name\":\"FEED Special - Sonoma County Apples\",\"type\":\"recipe\"},{\"item\":\"Milk\",\"weight\":8,\"name\":\"Milk\",\"type\":\"category\"},{\"item\":140102,\"weight\":9,\"name\":\"1% White Milk\",\"type\":\"recipe\"},{\"item\":173712,\"weight\":10,\"name\":\"Fat Free White Milk\",\"type\":\"recipe\"},{\"item\":\"Condiments\",\"weight\":11,\"name\":\"Condiments\",\"type\":\"category\"},{\"item\":140120,\"weight\":12,\"name\":\"Ranch Dressing\",\"type\":\"recipe\"},{\"item\":1810950,\"weight\":13,\"name\":\"Italian Dressing\",\"type\":\"recipe\"}],\"available_recipes\":[2190061,2042234,140180,140102,140120,1715117,173712,1810950,1683053],\"hidden_items\":[{\"item\":\"orig_choice_of\",\"weight\":0,\"name\":\"Choice of\",\"type\":\"text\"},{\"item\":\"orig_with\",\"weight\":0,\"name\":\"With\",\"type\":\"text\"},{\"item\":\"orig_and\",\"weight\":0,\"name\":\"And\",\"type\":\"text\"},{\"item\":\"orig_or\",\"weight\":0,\"name\":\"Or\",\"type\":\"text\"}],\"days_off\":[],\"daily_meal_items\":[]}",
+   "overwritten": false
+  }
+ ]
+}

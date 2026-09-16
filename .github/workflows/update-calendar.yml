@@ -1,0 +1,44 @@
+name: Update meal calendar
+
+on:
+  schedule:
+    - cron: "15 13 * * *" # daily, ~6 AM Pacific
+  workflow_dispatch: # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths: ["school_menu_sync.py", "config.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Test
+        run: python -m unittest discover tests
+
+      - name: Generate calendar
+        run: python school_menu_sync.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- docs/; then
+            echo "Menu unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "Update meal calendar"
+          git push

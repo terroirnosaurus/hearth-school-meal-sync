@@ -1,0 +1,57 @@
+{
+  "calendar_name": "Grant Elementary Meals",
+  "timezone": "America/Los_Angeles",
+  "organization_id": 472,
+  "site_id": 4063,
+  "output": "docs/grant-elementary-meals.ics",
+
+  "meals": [
+    {
+      "menu_name_contains": "Elementary Breakfast",
+      "label": "Breakfast",
+      "emoji": "🥣",
+      "start": "08:00",
+      "end": "08:20"
+    },
+    {
+      "menu_name_contains": "Elementary Lunch",
+      "label": "Lunch",
+      "emoji": "🍽️",
+      "start": "11:45",
+      "end": "12:15"
+    }
+  ],
+
+  "title_categories": ["Breakfast Entree", "Lunch Entree"],
+  "description_categories": ["Vegetables", "Fruit", "Grains", "Misc."],
+  "include_days_off": true,
+
+  "name_cleanup": [
+    ["^FEED Special - ", ""],
+    [",\\s*\\d+(\\.\\d+)?\\s*oz$", ""],
+    [",\\s*size [\\d-]+$", ""],
+    [", purple, red, or black$", ""],
+    [" \\(Varietal\\)$", ""]
+  ],
+
+  "food_emoji": [
+    ["pizza|calzone", "🍕"],
+    ["pancake", "🥞"],
+    ["waffle", "🧇"],
+    ["burger", "🍔"],
+    ["hot dog", "🌭"],
+    ["taco|nacho|taquito", "🌮"],
+    ["burrito", "🌯"],
+    ["tamale|pupusa|quesadilla", "🫓"],
+    ["pasta|mac & cheese|spaghetti", "🍝"],
+    ["rice", "🍚"],
+    ["drumstick|tender|nugget", "🍗"],
+    ["sandwich|croissant", "🥪"],
+    ["bagel", "🥯"],
+    ["egg", "🍳"],
+    ["muffin", "🧁"],
+    ["bread|concha|breadstick", "🍞"],
+    ["cereal", "🥣"],
+    ["yogurt", "🍦"]
+  ]
+}
