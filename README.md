@@ -4,11 +4,11 @@ Turns the Petaluma City Schools breakfast and lunch menus
 ([menus.healthepro.com](https://menus.healthepro.com/organizations/472/sites/4063/menus/129804))
 into a subscribable calendar feed (`.ics`) for the Hearth Display, Google Calendar, Apple Calendar, or Outlook.
 
-Each school day gets a breakfast and a lunch event, for example:
+Each school day gets an all-day breakfast event and an all-day lunch event, for example:
 
 ```
-Tue Sep 22  08:00-08:20  🥞 Breakfast: Pancakes
-Tue Sep 22  11:45-12:15  🥪 Lunch: Grilled Cheese Sandwich or BBQ Beef Rib Sandwich
+Tue Sep 22  all day      🥞 Breakfast: Pancakes
+Tue Sep 22  all day      🥪 Lunch: Grilled Cheese Sandwich or BBQ Beef Rib Sandwich
                               Vegetables: Salad Bar
                               Fruit: Fresh Oranges, Fresh Apples
 Mon Oct 12  all day      🏠 No School Meals: Professional Development Day
@@ -52,7 +52,7 @@ Either option works:
 
 | Setting | What it does |
 | --- | --- |
-| `meals[].start` / `end` | Event times. Remove both to make meals all-day events instead. |
+| `meals[].start` / `end` | Optional event times (e.g. `"start": "11:45", "end": "12:15"`). Leave them out for all-day events (the default). |
 | `meals[].emoji` | Fallback emoji when no `food_emoji` rule matches the entree. |
 | `title_categories` | Categories shown in the event title (the entrees). |
 | `description_categories` | Categories listed in the event details. Milk and condiments are left out by default. |

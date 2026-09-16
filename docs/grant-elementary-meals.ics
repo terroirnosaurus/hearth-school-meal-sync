@@ -27,8 +27,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-09-01-breakfast@school-meal-sync
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=America/Los_Angeles:20260901T080000
-DTEND;TZID=America/Los_Angeles:20260901T082000
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
 SUMMARY:🥪 Breakfast: Egg & Cheese English Muffin Sandwich
 DESCRIPTION:Breakfast: Egg & Cheese English Muffin Sandwich\nFruit: Fresh P
  lum\, Unsweetened Raisins
@@ -38,8 +38,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-01-lunch@school-meal-sync
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=America/Los_Angeles:20260901T114500
-DTEND;TZID=America/Los_Angeles:20260901T121500
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
 SUMMARY:🥪 Lunch: BBQ Pulled Pork Sandwich or Vegan BBQ Burger
 DESCRIPTION:Lunch: BBQ Pulled Pork Sandwich or Vegan BBQ Burger\nVegetables
  : Salad Bar\nFruit: Fresh Oranges
@@ -49,8 +49,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02-breakfast@school-meal-sync
 DTSTAMP:20260902T000000Z
-DTSTART;TZID=America/Los_Angeles:20260902T080000
-DTEND;TZID=America/Los_Angeles:20260902T082000
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
  Applesauce Cups
@@ -60,8 +60,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02-lunch@school-meal-sync
 DTSTAMP:20260902T000000Z
-DTSTART;TZID=America/Los_Angeles:20260902T114500
-DTEND;TZID=America/Los_Angeles:20260902T121500
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
 SUMMARY:🫓 Lunch: Cheese Quesadilla or Chicken and Cheese Quesadilla
 DESCRIPTION:Lunch: Cheese Quesadilla or Chicken and Cheese Quesadilla\nVege
  tables: Baby Carrots\, Corn Niblets\, Mild Salsa\nFruit: Fresh Bananas
@@ -71,8 +71,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03-breakfast@school-meal-sync
 DTSTAMP:20260903T000000Z
-DTSTART;TZID=America/Los_Angeles:20260903T080000
-DTEND;TZID=America/Los_Angeles:20260903T082000
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
 SUMMARY:🧁 Breakfast: Sunrise Muffin
 DESCRIPTION:Breakfast: Sunrise Muffin\nFruit: Fresh Bananas\, Unsweetened R
  aisins\nMisc.: Honey Roasted Sunflower Seeds
@@ -82,8 +82,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03-lunch@school-meal-sync
 DTSTAMP:20260903T000000Z
-DTSTART;TZID=America/Los_Angeles:20260903T114500
-DTEND;TZID=America/Los_Angeles:20260903T121500
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
 SUMMARY:🍝 Lunch: Pesto Pasta with Chicken or Pesto Pasta
 DESCRIPTION:Lunch: Pesto Pasta with Chicken or Pesto Pasta\nVegetables: Sal
  ad Bar\nFruit: Sonoma County Apples
@@ -93,8 +93,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-breakfast@school-meal-sync
 DTSTAMP:20260904T000000Z
-DTSTART;TZID=America/Los_Angeles:20260904T080000
-DTEND;TZID=America/Los_Angeles:20260904T082000
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
 SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
 DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Sonoma County App
  les\, Apple Juice
@@ -104,8 +104,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-lunch@school-meal-sync
 DTSTAMP:20260904T000000Z
-DTSTART;TZID=America/Los_Angeles:20260904T114500
-DTEND;TZID=America/Los_Angeles:20260904T121500
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
 SUMMARY:🍕 Lunch: Pepperoni Pizza Calzone or Cheese Pizza Calzone
 DESCRIPTION:Lunch: Pepperoni Pizza Calzone or Cheese Pizza Calzone\nVegetab
  les: Salad Bar\nFruit: Fresh Oranges
@@ -124,8 +124,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-breakfast@school-meal-sync
 DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Los_Angeles:20260908T080000
-DTEND;TZID=America/Los_Angeles:20260908T082000
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
 SUMMARY:🍞 Breakfast: Lemon Breakfast Bread
 DESCRIPTION:Breakfast: Lemon Breakfast Bread\nFruit: Fresh Oranges\, Unswee
  tened Raisins
@@ -135,8 +135,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-lunch@school-meal-sync
 DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Los_Angeles:20260908T114500
-DTEND;TZID=America/Los_Angeles:20260908T121500
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
 SUMMARY:🥪 Lunch: Chicken Parmesan Sandwich or Rebellyous Kickin' Parmesa
  n Sandwich (Plant-based)
 DESCRIPTION:Lunch: Chicken Parmesan Sandwich or Rebellyous Kickin' Parmesan
@@ -147,8 +147,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-breakfast@school-meal-sync
 DTSTAMP:20260909T000000Z
-DTSTART;TZID=America/Los_Angeles:20260909T080000
-DTEND;TZID=America/Los_Angeles:20260909T082000
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Nectarine\, Unsweetene
  d Applesauce Cups
@@ -158,8 +158,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-lunch@school-meal-sync
 DTSTAMP:20260909T000000Z
-DTSTART;TZID=America/Los_Angeles:20260909T114500
-DTEND;TZID=America/Los_Angeles:20260909T121500
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
 SUMMARY:🫓 Lunch: Cheese & Green Chile Tamale or Chicken Tamale
 DESCRIPTION:Lunch: Cheese & Green Chile Tamale or Chicken Tamale\nVegetable
  s: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples
@@ -169,8 +169,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-breakfast@school-meal-sync
 DTSTAMP:20260910T000000Z
-DTSTART;TZID=America/Los_Angeles:20260910T080000
-DTEND;TZID=America/Los_Angeles:20260910T082000
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
 SUMMARY:🍞 Breakfast: White Concha
 DESCRIPTION:Breakfast: White Concha\nFruit: Fresh Apples\, Unsweetened Rais
  ins
@@ -180,8 +180,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-lunch@school-meal-sync
 DTSTAMP:20260910T000000Z
-DTSTART;TZID=America/Los_Angeles:20260910T114500
-DTEND;TZID=America/Los_Angeles:20260910T121500
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
 SUMMARY:🍚 Lunch: Sweet & Sour Chicken and Rice or Plant-Based Sweet & So
  ur Chik'n with Rice
 DESCRIPTION:Lunch: Sweet & Sour Chicken and Rice or Plant-Based Sweet & Sou
@@ -192,8 +192,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-breakfast@school-meal-sync
 DTSTAMP:20260911T000000Z
-DTSTART;TZID=America/Los_Angeles:20260911T080000
-DTEND;TZID=America/Los_Angeles:20260911T082000
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
 SUMMARY:🥯 Breakfast: Whole Wheat Bagel
 DESCRIPTION:Breakfast: Whole Wheat Bagel\nFruit: Fresh Bananas\, Unsweetene
  d Applesauce Cups
@@ -203,8 +203,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-lunch@school-meal-sync
 DTSTAMP:20260911T000000Z
-DTSTART;TZID=America/Los_Angeles:20260911T114500
-DTEND;TZID=America/Los_Angeles:20260911T121500
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
 SUMMARY:🍕 Lunch: Pepperoni Smart Pizza or Cheese French Bread Pizza
 DESCRIPTION:Lunch: Pepperoni Smart Pizza or Cheese French Bread Pizza\nVege
  tables: Salad Bar\nFruit: Fresh Oranges\, Sonoma County Apples
@@ -214,8 +214,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-breakfast@school-meal-sync
 DTSTAMP:20260914T000000Z
-DTSTART;TZID=America/Los_Angeles:20260914T080000
-DTEND;TZID=America/Los_Angeles:20260914T082000
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
 SUMMARY:🧇 Breakfast: Vanilla Liege Waffle
 DESCRIPTION:Breakfast: Vanilla Liege Waffle\nFruit: Fresh Oranges\, Sonoma 
  County Apples\nMisc.: Mozzarella String Cheese
@@ -225,8 +225,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-lunch@school-meal-sync
 DTSTAMP:20260914T000000Z
-DTSTART;TZID=America/Los_Angeles:20260914T114500
-DTEND;TZID=America/Los_Angeles:20260914T121500
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
 SUMMARY:🍗 Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders
 DESCRIPTION:Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders\nVegeta
  bles: Salad Bar\nFruit: Fresh Peach\, Fresh Apples\nGrains: Whole-Grain Ar
@@ -237,8 +237,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-breakfast@school-meal-sync
 DTSTAMP:20260915T000000Z
-DTSTART;TZID=America/Los_Angeles:20260915T080000
-DTEND;TZID=America/Los_Angeles:20260915T082000
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
 SUMMARY:🍳 Breakfast: Egg & Cheese Breakfast Scrambler
 DESCRIPTION:Breakfast: Egg & Cheese Breakfast Scrambler\nFruit: Fresh Peach
  \, Fresh Apples
@@ -248,8 +248,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-lunch@school-meal-sync
 DTSTAMP:20260915T000000Z
-DTSTART;TZID=America/Los_Angeles:20260915T114500
-DTEND;TZID=America/Los_Angeles:20260915T121500
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
 SUMMARY:🌮 Lunch: Turkey Taco Nachos or Nachos with Beans
 DESCRIPTION:Lunch: Turkey Taco Nachos or Nachos with Beans\nVegetables: Sal
  ad Bar\nFruit: Fresh Oranges\, Bosc Pear
@@ -259,8 +259,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-breakfast@school-meal-sync
 DTSTAMP:20260916T000000Z
-DTSTART;TZID=America/Los_Angeles:20260916T080000
-DTEND;TZID=America/Los_Angeles:20260916T082000
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Fresh Pears
 CATEGORIES:Breakfast
@@ -269,8 +269,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-lunch@school-meal-sync
 DTSTAMP:20260916T000000Z
-DTSTART;TZID=America/Los_Angeles:20260916T114500
-DTEND;TZID=America/Los_Angeles:20260916T121500
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
 SUMMARY:🌮 Lunch: Chicken Taquitos or Bean Taquitos
 DESCRIPTION:Lunch: Chicken Taquitos or Bean Taquitos\nVegetables: Baby Carr
  ots\, Corn Niblets\nFruit: Sonoma County Apples\, Fresh Oranges
@@ -280,8 +280,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-breakfast@school-meal-sync
 DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Los_Angeles:20260917T080000
-DTEND;TZID=America/Los_Angeles:20260917T082000
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
 SUMMARY:🧁 Breakfast: Banana Muffin
 DESCRIPTION:Breakfast: Banana Muffin\nFruit: Sonoma County Apples\, Fresh O
  ranges
@@ -291,8 +291,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-lunch@school-meal-sync
 DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Los_Angeles:20260917T114500
-DTEND;TZID=America/Los_Angeles:20260917T121500
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
 SUMMARY:🍝 Lunch: Pasta with Meat Sauce or Pasta with Marinara Sauce
 DESCRIPTION:Lunch: Pasta with Meat Sauce or Pasta with Marinara Sauce\nVege
  tables: Salad Bar\nFruit: Fresh Bananas\, Fresh Pears
@@ -302,8 +302,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-breakfast@school-meal-sync
 DTSTAMP:20260918T000000Z
-DTSTART;TZID=America/Los_Angeles:20260918T080000
-DTEND;TZID=America/Los_Angeles:20260918T082000
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
 SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
 DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Bananas\, F
  resh Pears
@@ -313,8 +313,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-lunch@school-meal-sync
 DTSTAMP:20260918T000000Z
-DTSTART;TZID=America/Los_Angeles:20260918T114500
-DTEND;TZID=America/Los_Angeles:20260918T121500
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
 SUMMARY:🍞 Lunch: Cheese Breadsticks
 DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar\nFruit: Fresh 
  Oranges\, Fresh Apples
@@ -324,8 +324,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-breakfast@school-meal-sync
 DTSTAMP:20260921T000000Z
-DTSTART;TZID=America/Los_Angeles:20260921T080000
-DTEND;TZID=America/Los_Angeles:20260921T082000
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
 SUMMARY:🧁 Breakfast: Blueberry Muffin
 DESCRIPTION:Breakfast: Blueberry Muffin\nFruit: Fresh Oranges\, Fresh Apple
  s
@@ -335,8 +335,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-lunch@school-meal-sync
 DTSTAMP:20260921T000000Z
-DTSTART;TZID=America/Los_Angeles:20260921T114500
-DTEND;TZID=America/Los_Angeles:20260921T121500
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
 SUMMARY:🍔 Lunch: Cheeseburger or Plant-Based Burger w/ Cheese
 DESCRIPTION:Lunch: Cheeseburger or Plant-Based Burger w/ Cheese\nVegetables
  : Salad Bar\nFruit: Fresh Plum\, Fresh Pears
@@ -346,8 +346,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-breakfast@school-meal-sync
 DTSTAMP:20260922T000000Z
-DTSTART;TZID=America/Los_Angeles:20260922T080000
-DTEND;TZID=America/Los_Angeles:20260922T082000
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
 SUMMARY:🥞 Breakfast: Pancakes
 DESCRIPTION:Breakfast: Pancakes\nFruit: Fresh Plum\, Fresh Pears
 CATEGORIES:Breakfast
@@ -356,8 +356,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-lunch@school-meal-sync
 DTSTAMP:20260922T000000Z
-DTSTART;TZID=America/Los_Angeles:20260922T114500
-DTEND;TZID=America/Los_Angeles:20260922T121500
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
 SUMMARY:🥪 Lunch: Grilled Cheese Sandwich or BBQ Beef Rib Sandwich
 DESCRIPTION:Lunch: Grilled Cheese Sandwich or BBQ Beef Rib Sandwich\nVegeta
  bles: Salad Bar\nFruit: Fresh Oranges\, Fresh Apples
@@ -367,8 +367,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-breakfast@school-meal-sync
 DTSTAMP:20260923T000000Z
-DTSTART;TZID=America/Los_Angeles:20260923T080000
-DTEND;TZID=America/Los_Angeles:20260923T082000
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Fresh Apples
 CATEGORIES:Breakfast
@@ -377,8 +377,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-lunch@school-meal-sync
 DTSTAMP:20260923T000000Z
-DTSTART;TZID=America/Los_Angeles:20260923T114500
-DTEND;TZID=America/Los_Angeles:20260923T121500
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
 SUMMARY:🌯 Lunch: Bean & Cheese Burrito or Chicken\, Cheese & Rice Burrit
  o
 DESCRIPTION:Lunch: Bean & Cheese Burrito or Chicken\, Cheese & Rice Burrito
@@ -390,8 +390,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-breakfast@school-meal-sync
 DTSTAMP:20260924T000000Z
-DTSTART;TZID=America/Los_Angeles:20260924T080000
-DTEND;TZID=America/Los_Angeles:20260924T082000
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
 SUMMARY:🍞 Breakfast: Banana Bread Slice
 DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Sonoma County Apples\, Fr
  esh Pears
@@ -401,8 +401,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-lunch@school-meal-sync
 DTSTAMP:20260924T000000Z
-DTSTART;TZID=America/Los_Angeles:20260924T114500
-DTEND;TZID=America/Los_Angeles:20260924T121500
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
 SUMMARY:🍚 Lunch: Orange Chicken & Rice or Plant-Based Sweet & Sour Chik'
  n with Rice
 DESCRIPTION:Lunch: Orange Chicken & Rice or Plant-Based Sweet & Sour Chik'n
@@ -413,8 +413,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-breakfast@school-meal-sync
 DTSTAMP:20260925T000000Z
-DTSTART;TZID=America/Los_Angeles:20260925T080000
-DTEND;TZID=America/Los_Angeles:20260925T082000
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
 SUMMARY:🥪 Breakfast: Ham and Swiss Cheese Croissant
 DESCRIPTION:Breakfast: Ham and Swiss Cheese Croissant\nFruit: Fresh Bananas
  \, Fresh Oranges
@@ -424,8 +424,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-lunch@school-meal-sync
 DTSTAMP:20260925T000000Z
-DTSTART;TZID=America/Los_Angeles:20260925T114500
-DTEND;TZID=America/Los_Angeles:20260925T121500
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
 SUMMARY:🍕 Lunch: Pepperoni Pizza Wedge or Cheese Pizza Wedge
 DESCRIPTION:Lunch: Pepperoni Pizza Wedge or Cheese Pizza Wedge\nVegetables:
   Salad Bar\nFruit: Fresh Oranges\, Fresh Pears
@@ -435,8 +435,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-breakfast@school-meal-sync
 DTSTAMP:20260928T000000Z
-DTSTART;TZID=America/Los_Angeles:20260928T080000
-DTEND;TZID=America/Los_Angeles:20260928T082000
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
 SUMMARY:🧇 Breakfast: Maple Belgian Waffle
 DESCRIPTION:Breakfast: Maple Belgian Waffle\nFruit: Fresh Oranges\, Fresh P
  ears
@@ -446,8 +446,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-lunch@school-meal-sync
 DTSTAMP:20260928T000000Z
-DTSTART;TZID=America/Los_Angeles:20260928T114500
-DTEND;TZID=America/Los_Angeles:20260928T121500
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
 SUMMARY:🍔 Lunch: Breaded Chicken Burger or Rebellyous Kickin' Sandwich (
  Plant-based)
 DESCRIPTION:Lunch: Breaded Chicken Burger or Rebellyous Kickin' Sandwich (P
@@ -458,8 +458,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-breakfast@school-meal-sync
 DTSTAMP:20260929T000000Z
-DTSTART;TZID=America/Los_Angeles:20260929T080000
-DTEND;TZID=America/Los_Angeles:20260929T082000
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
 SUMMARY:🥪 Breakfast: Egg & Cheese English Muffin Sandwich
 DESCRIPTION:Breakfast: Egg & Cheese English Muffin Sandwich\nFruit: Fresh P
  each\, Fresh Pears
@@ -469,8 +469,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-lunch@school-meal-sync
 DTSTAMP:20260929T000000Z
-DTSTART;TZID=America/Los_Angeles:20260929T114500
-DTEND;TZID=America/Los_Angeles:20260929T121500
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
 SUMMARY:🍝 Lunch: Mac & Cheese or Hot Dog
 DESCRIPTION:Lunch: Mac & Cheese or Hot Dog\nVegetables: Salad Bar\nFruit: F
  resh Oranges\, Fresh Apples
@@ -480,8 +480,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-breakfast@school-meal-sync
 DTSTAMP:20260930T000000Z
-DTSTART;TZID=America/Los_Angeles:20260930T080000
-DTEND;TZID=America/Los_Angeles:20260930T082000
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Fresh Apples
 CATEGORIES:Breakfast
@@ -490,8 +490,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-lunch@school-meal-sync
 DTSTAMP:20260930T000000Z
-DTSTART;TZID=America/Los_Angeles:20260930T114500
-DTEND;TZID=America/Los_Angeles:20260930T121500
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
 SUMMARY:🫓 Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa
 DESCRIPTION:Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa\nVege
  tables: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh Pears
@@ -501,8 +501,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-breakfast@school-meal-sync
 DTSTAMP:20261001T000000Z
-DTSTART;TZID=America/Los_Angeles:20261001T080000
-DTEND;TZID=America/Los_Angeles:20261001T082000
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
 SUMMARY:🧁 Breakfast: Mantecada Muffin
 DESCRIPTION:Breakfast: Mantecada Muffin\nFruit: Fresh Apples\, Fresh Pears
 CATEGORIES:Breakfast
@@ -511,8 +511,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-lunch@school-meal-sync
 DTSTAMP:20261001T000000Z
-DTSTART;TZID=America/Los_Angeles:20261001T114500
-DTEND;TZID=America/Los_Angeles:20261001T121500
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
 SUMMARY:🍽️ Lunch: Cheese Lasagna
 DESCRIPTION:Lunch: Cheese Lasagna\nVegetables: Salad Bar\nFruit: Fresh Bana
  nas\, Fresh Oranges
@@ -522,8 +522,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-breakfast@school-meal-sync
 DTSTAMP:20261002T000000Z
-DTSTART;TZID=America/Los_Angeles:20261002T080000
-DTEND;TZID=America/Los_Angeles:20261002T082000
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
 SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
 DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Bananas\, O
  range Tangerine Juice Box
@@ -533,8 +533,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-lunch@school-meal-sync
 DTSTAMP:20261002T000000Z
-DTSTART;TZID=America/Los_Angeles:20261002T114500
-DTEND;TZID=America/Los_Angeles:20261002T121500
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
 SUMMARY:🍞 Lunch: Cheese Breadsticks
 DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar\nFruit: Fresh 
  Oranges\, Fresh Apples
@@ -544,8 +544,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-breakfast@school-meal-sync
 DTSTAMP:20261005T000000Z
-DTSTART;TZID=America/Los_Angeles:20261005T080000
-DTEND;TZID=America/Los_Angeles:20261005T082000
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
 SUMMARY:🍞 Breakfast: Lemon Breakfast Bread
 DESCRIPTION:Breakfast: Lemon Breakfast Bread\nFruit: Fresh Oranges\, Unswee
  tened Applesauce Cups
@@ -555,8 +555,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-lunch@school-meal-sync
 DTSTAMP:20261005T000000Z
-DTSTART;TZID=America/Los_Angeles:20261005T114500
-DTEND;TZID=America/Los_Angeles:20261005T121500
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
 SUMMARY:🍔 Lunch: Hamburger or Vegan Burger
 DESCRIPTION:Lunch: Hamburger or Vegan Burger\nVegetables: Salad Bar\nFruit:
   Fresh Apples\, Fresh Oranges
@@ -566,8 +566,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-breakfast@school-meal-sync
 DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Los_Angeles:20261006T080000
-DTEND;TZID=America/Los_Angeles:20261006T082000
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
 SUMMARY:🌮 Breakfast: Egg & Cheese Breakfast Taco
 DESCRIPTION:Breakfast: Egg & Cheese Breakfast Taco\nFruit: Fresh Apples\, U
  nsweetened Raisins
@@ -577,8 +577,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-lunch@school-meal-sync
 DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Los_Angeles:20261006T114500
-DTEND;TZID=America/Los_Angeles:20261006T121500
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
 SUMMARY:🧇 Lunch: Chicken Drumstick & Waffle or Kickin' Tenders and Waffl
  e
 DESCRIPTION:Lunch: Chicken Drumstick & Waffle or Kickin' Tenders and Waffle
@@ -589,8 +589,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-breakfast@school-meal-sync
 DTSTAMP:20261007T000000Z
-DTSTART;TZID=America/Los_Angeles:20261007T080000
-DTEND;TZID=America/Los_Angeles:20261007T082000
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
  Applesauce Cups
@@ -600,8 +600,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-lunch@school-meal-sync
 DTSTAMP:20261007T000000Z
-DTSTART;TZID=America/Los_Angeles:20261007T114500
-DTEND;TZID=America/Los_Angeles:20261007T121500
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
 SUMMARY:🍽️ Lunch: Chicken Enchilada Empanada or Black Bean & Cheese Em
  panada
 DESCRIPTION:Lunch: Chicken Enchilada Empanada or Black Bean & Cheese Empana
@@ -613,8 +613,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-breakfast@school-meal-sync
 DTSTAMP:20261008T000000Z
-DTSTART;TZID=America/Los_Angeles:20261008T080000
-DTEND;TZID=America/Los_Angeles:20261008T082000
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
 SUMMARY:🥣 Breakfast: Strawberry Oatmeal Bar
 DESCRIPTION:Breakfast: Strawberry Oatmeal Bar\nFruit: Fresh Bananas\, Unswe
  etened Raisins
@@ -624,8 +624,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-lunch@school-meal-sync
 DTSTAMP:20261008T000000Z
-DTSTART;TZID=America/Los_Angeles:20261008T114500
-DTEND;TZID=America/Los_Angeles:20261008T121500
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
 SUMMARY:🍚 Lunch: Teriyaki Chicken & Rice or Plant-Based Teriyaki Chik'n 
  with Rice
 DESCRIPTION:Lunch: Teriyaki Chicken & Rice or Plant-Based Teriyaki Chik'n w
@@ -636,8 +636,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-breakfast@school-meal-sync
 DTSTAMP:20261009T000000Z
-DTSTART;TZID=America/Los_Angeles:20261009T080000
-DTEND;TZID=America/Los_Angeles:20261009T082000
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
 SUMMARY:🥣 Breakfast: Apple Empanada
 DESCRIPTION:Breakfast: Apple Empanada\nFruit: Fresh Apples\, Unsweetened Ap
  plesauce Cups
@@ -647,8 +647,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-lunch@school-meal-sync
 DTSTAMP:20261009T000000Z
-DTSTART;TZID=America/Los_Angeles:20261009T114500
-DTEND;TZID=America/Los_Angeles:20261009T121500
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
 SUMMARY:🍞 Lunch: Garlic Cheese French Bread
 DESCRIPTION:Lunch: Garlic Cheese French Bread\nVegetables: Salad Bar\nFruit
  : Fresh Oranges\, Fresh Apples
@@ -667,8 +667,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-breakfast@school-meal-sync
 DTSTAMP:20261013T000000Z
-DTSTART;TZID=America/Los_Angeles:20261013T080000
-DTEND;TZID=America/Los_Angeles:20261013T082000
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:🧇 Breakfast: Vanilla Liege Waffle
 DESCRIPTION:Breakfast: Vanilla Liege Waffle\nFruit: Fresh Apples\, Unsweete
  ned Raisins
@@ -678,8 +678,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-lunch@school-meal-sync
 DTSTAMP:20261013T000000Z
-DTSTART;TZID=America/Los_Angeles:20261013T114500
-DTEND;TZID=America/Los_Angeles:20261013T121500
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:🍽️ Lunch: Meatball Sub or Meatless Meatball Sub
 DESCRIPTION:Lunch: Meatball Sub or Meatless Meatball Sub\nVegetables: Salad
   Bar\nFruit: Fresh Oranges\, Fresh Apples\nGrains: Pretzel Goldfish
@@ -689,8 +689,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-breakfast@school-meal-sync
 DTSTAMP:20261014T000000Z
-DTSTART;TZID=America/Los_Angeles:20261014T080000
-DTEND;TZID=America/Los_Angeles:20261014T082000
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
  Applesauce Cups
@@ -700,8 +700,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-lunch@school-meal-sync
 DTSTAMP:20261014T000000Z
-DTSTART;TZID=America/Los_Angeles:20261014T114500
-DTEND;TZID=America/Los_Angeles:20261014T121500
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
 SUMMARY:🌮 Lunch: Chicken Taquitos or Bean Taquitos
 DESCRIPTION:Lunch: Chicken Taquitos or Bean Taquitos\nVegetables: Baby Carr
  ots\, Corn Niblets\, Mild Salsa\nFruit: Fresh Apples\, Fresh Pears
@@ -711,8 +711,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-breakfast@school-meal-sync
 DTSTAMP:20261015T000000Z
-DTSTART;TZID=America/Los_Angeles:20261015T080000
-DTEND;TZID=America/Los_Angeles:20261015T082000
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
 SUMMARY:🧁 Breakfast: Banana Muffin
 DESCRIPTION:Breakfast: Banana Muffin\nFruit: Fresh Bananas\, Unsweetened Ra
  isins
@@ -722,8 +722,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-lunch@school-meal-sync
 DTSTAMP:20261015T000000Z
-DTSTART;TZID=America/Los_Angeles:20261015T114500
-DTEND;TZID=America/Los_Angeles:20261015T121500
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
 SUMMARY:🍝 Lunch: Pesto Pasta with Chicken or Pesto Pasta
 DESCRIPTION:Lunch: Pesto Pasta with Chicken or Pesto Pasta\nVegetables: Sal
  ad Bar\nFruit: Fresh Bananas\, Fresh Oranges
@@ -733,8 +733,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-breakfast@school-meal-sync
 DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Los_Angeles:20261016T080000
-DTEND;TZID=America/Los_Angeles:20261016T082000
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
 SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
 DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Apples\, Un
  sweetened Applesauce Cups
@@ -744,8 +744,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-lunch@school-meal-sync
 DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Los_Angeles:20261016T114500
-DTEND;TZID=America/Los_Angeles:20261016T121500
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
 SUMMARY:🍕 Lunch: Pepperoni Pizza Calzone or Cheese Pizza Calzone
 DESCRIPTION:Lunch: Pepperoni Pizza Calzone or Cheese Pizza Calzone\nVegetab
  les: Salad Bar\nFruit: Fresh Oranges\, Fresh Pears
@@ -755,8 +755,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-breakfast@school-meal-sync
 DTSTAMP:20261019T000000Z
-DTSTART;TZID=America/Los_Angeles:20261019T080000
-DTEND;TZID=America/Los_Angeles:20261019T082000
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
 SUMMARY:🧁 Breakfast: Blueberry Muffin
 DESCRIPTION:Breakfast: Blueberry Muffin\nFruit: Fresh Oranges\, Unsweetened
   Applesauce Cups
@@ -766,8 +766,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-lunch@school-meal-sync
 DTSTAMP:20261019T000000Z
-DTSTART;TZID=America/Los_Angeles:20261019T114500
-DTEND;TZID=America/Los_Angeles:20261019T121500
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
 SUMMARY:🍔 Lunch: Cheeseburger or Plant-Based Burger w/ Cheese
 DESCRIPTION:Lunch: Cheeseburger or Plant-Based Burger w/ Cheese\nVegetables
  : Salad Bar\nFruit: Fresh Apples\, Fresh Oranges
@@ -777,8 +777,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-breakfast@school-meal-sync
 DTSTAMP:20261020T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T080000
-DTEND;TZID=America/Los_Angeles:20261020T082000
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
 SUMMARY:🥣 Breakfast: Mini French Toast
 DESCRIPTION:Breakfast: Mini French Toast\nFruit: Fresh Apples\, Unsweetened
   Raisins
@@ -788,8 +788,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-lunch@school-meal-sync
 DTSTAMP:20261020T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T114500
-DTEND;TZID=America/Los_Angeles:20261020T121500
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
 SUMMARY:🥪 Lunch: Chicken Parmesan Sandwich or Rebellyous Kickin' Parmesa
  n Sandwich (Plant-based)
 DESCRIPTION:Lunch: Chicken Parmesan Sandwich or Rebellyous Kickin' Parmesan
@@ -801,8 +801,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-breakfast@school-meal-sync
 DTSTAMP:20261021T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T080000
-DTEND;TZID=America/Los_Angeles:20261021T082000
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
  Applesauce Cups
@@ -812,8 +812,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-lunch@school-meal-sync
 DTSTAMP:20261021T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T114500
-DTEND;TZID=America/Los_Angeles:20261021T121500
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
 SUMMARY:🫓 Lunch: Cheese & Green Chile Tamale or Chicken Tamale
 DESCRIPTION:Lunch: Cheese & Green Chile Tamale or Chicken Tamale\nVegetable
  s: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh Oranges
@@ -823,8 +823,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-breakfast@school-meal-sync
 DTSTAMP:20261022T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T080000
-DTEND;TZID=America/Los_Angeles:20261022T082000
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
 SUMMARY:🍞 Breakfast: Banana Bread Slice
 DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Bananas\, Unsweeten
  ed Raisins
@@ -834,8 +834,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-lunch@school-meal-sync
 DTSTAMP:20261022T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T114500
-DTEND;TZID=America/Los_Angeles:20261022T121500
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
 SUMMARY:🍚 Lunch: Sweet & Sour Chicken and Rice or Plant-Based Sweet & So
  ur Chik'n with Rice
 DESCRIPTION:Lunch: Sweet & Sour Chicken and Rice or Plant-Based Sweet & Sou
@@ -847,8 +847,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-breakfast@school-meal-sync
 DTSTAMP:20261023T000000Z
-DTSTART;TZID=America/Los_Angeles:20261023T080000
-DTEND;TZID=America/Los_Angeles:20261023T082000
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
 SUMMARY:🥪 Breakfast: Ham and Swiss Cheese Croissant
 DESCRIPTION:Breakfast: Ham and Swiss Cheese Croissant\nFruit: Fresh Apples\
  , Unsweetened Applesauce Cups
@@ -858,8 +858,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-lunch@school-meal-sync
 DTSTAMP:20261023T000000Z
-DTSTART;TZID=America/Los_Angeles:20261023T114500
-DTEND;TZID=America/Los_Angeles:20261023T121500
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
 SUMMARY:🍕 Lunch: Pepperoni French Bread Pizza or Cheese French Bread Piz
  za
 DESCRIPTION:Lunch: Pepperoni French Bread Pizza or Cheese French Bread Pizz
@@ -870,8 +870,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-breakfast@school-meal-sync
 DTSTAMP:20261026T000000Z
-DTSTART;TZID=America/Los_Angeles:20261026T080000
-DTEND;TZID=America/Los_Angeles:20261026T082000
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
 SUMMARY:🧇 Breakfast: Maple Liege Waffle
 DESCRIPTION:Breakfast: Maple Liege Waffle\nFruit: Fresh Oranges\, Unsweeten
  ed Applesauce Cups
@@ -881,8 +881,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-lunch@school-meal-sync
 DTSTAMP:20261026T000000Z
-DTSTART;TZID=America/Los_Angeles:20261026T114500
-DTEND;TZID=America/Los_Angeles:20261026T121500
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
 SUMMARY:🍗 Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders
 DESCRIPTION:Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders\nVegeta
  bles: Salad Bar\nFruit: Fresh Apples\, Fresh Oranges\nGrains: Whole-Grain 
@@ -893,8 +893,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-breakfast@school-meal-sync
 DTSTAMP:20261027T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T080000
-DTEND;TZID=America/Los_Angeles:20261027T082000
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
 SUMMARY:🥪 Breakfast: Egg & Cheese English Muffin Sandwich
 DESCRIPTION:Breakfast: Egg & Cheese English Muffin Sandwich\nFruit: Fresh A
  pples\, Unsweetened Raisins
@@ -904,8 +904,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-lunch@school-meal-sync
 DTSTAMP:20261027T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T114500
-DTEND;TZID=America/Los_Angeles:20261027T121500
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
 SUMMARY:🌮 Lunch: Turkey Taco Nachos or Nachos with Beans
 DESCRIPTION:Lunch: Turkey Taco Nachos or Nachos with Beans\nVegetables: Sal
  ad Bar\nFruit: Fresh Oranges\, Fresh Pears
@@ -915,8 +915,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-breakfast@school-meal-sync
 DTSTAMP:20261028T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T080000
-DTEND;TZID=America/Los_Angeles:20261028T082000
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
 SUMMARY:🥣 Breakfast: Assorted Cereal
 DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
  Applesauce Cups
@@ -926,8 +926,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-lunch@school-meal-sync
 DTSTAMP:20261028T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T114500
-DTEND;TZID=America/Los_Angeles:20261028T121500
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
 SUMMARY:🫓 Lunch: Chicken and Cheese Quesadilla or Cheese Quesadilla
 DESCRIPTION:Lunch: Chicken and Cheese Quesadilla or Cheese Quesadilla\nVege
  tables: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh Oranges
@@ -937,8 +937,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-breakfast@school-meal-sync
 DTSTAMP:20261029T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T080000
-DTEND;TZID=America/Los_Angeles:20261029T082000
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
 SUMMARY:🧁 Breakfast: Sunrise Muffin
 DESCRIPTION:Breakfast: Sunrise Muffin\nFruit: Fresh Bananas\, Unsweetened R
  aisins
@@ -948,8 +948,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-lunch@school-meal-sync
 DTSTAMP:20261029T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T114500
-DTEND;TZID=America/Los_Angeles:20261029T121500
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
 SUMMARY:🍝 Lunch: Pasta with Meat Sauce or Pasta with Marinara Sauce
 DESCRIPTION:Lunch: Pasta with Meat Sauce or Pasta with Marinara Sauce\nVege
  tables: Salad Bar\nFruit: Fresh Bananas\, Fresh Apples
@@ -959,8 +959,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-breakfast@school-meal-sync
 DTSTAMP:20261030T000000Z
-DTSTART;TZID=America/Los_Angeles:20261030T080000
-DTEND;TZID=America/Los_Angeles:20261030T082000
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
 SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
 DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Apples\, Ap
  ple Juice
@@ -970,8 +970,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-lunch@school-meal-sync
 DTSTAMP:20261030T000000Z
-DTSTART;TZID=America/Los_Angeles:20261030T114500
-DTEND;TZID=America/Los_Angeles:20261030T121500
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
 SUMMARY:🍞 Lunch: Cheese Breadsticks
 DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar\nFruit: Fresh 
  Oranges\, Fresh Pears

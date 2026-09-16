@@ -9,16 +9,12 @@
     {
       "menu_name_contains": "Elementary Breakfast",
       "label": "Breakfast",
-      "emoji": "🥣",
-      "start": "08:00",
-      "end": "08:20"
+      "emoji": "🥣"
     },
     {
       "menu_name_contains": "Elementary Lunch",
       "label": "Lunch",
-      "emoji": "🍽️",
-      "start": "11:45",
-      "end": "12:15"
+      "emoji": "🍽️"
     }
   ],
 
