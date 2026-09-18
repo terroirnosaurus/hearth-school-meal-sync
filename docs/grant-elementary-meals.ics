@@ -557,9 +557,9 @@ UID:2026-10-05-lunch@school-meal-sync
 DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:🍔 Lunch: Hamburger or Vegan Burger
-DESCRIPTION:Lunch: Hamburger or Vegan Burger\nVegetables: Salad Bar\nFruit:
-  Fresh Apples\, Fresh Oranges
+SUMMARY:🍔 Lunch: Cheeseburger or Plant-Based Burger w/ Cheese
+DESCRIPTION:Lunch: Cheeseburger or Plant-Based Burger w/ Cheese\nVegetables
+ : Salad Bar\nFruit: Fresh Apples\, Fresh Oranges
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -757,9 +757,9 @@ UID:2026-10-19-breakfast@school-meal-sync
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-SUMMARY:🧁 Breakfast: Blueberry Muffin
-DESCRIPTION:Breakfast: Blueberry Muffin\nFruit: Fresh Oranges\, Unsweetened
-  Applesauce Cups
+SUMMARY:🥞 Breakfast: Pancakes
+DESCRIPTION:Breakfast: Pancakes\nFruit: Fresh Oranges\, Unsweetened Applesa
+ uce Cups
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -768,9 +768,9 @@ UID:2026-10-19-lunch@school-meal-sync
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-SUMMARY:🍔 Lunch: Cheeseburger or Plant-Based Burger w/ Cheese
-DESCRIPTION:Lunch: Cheeseburger or Plant-Based Burger w/ Cheese\nVegetables
- : Salad Bar\nFruit: Fresh Apples\, Fresh Oranges
+SUMMARY:🍔 Lunch: Hamburger or Vegan Burger
+DESCRIPTION:Lunch: Hamburger or Vegan Burger\nVegetables: Salad Bar\nFruit:
+  Fresh Apples\, Fresh Oranges
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -779,8 +779,8 @@ UID:2026-10-20-breakfast@school-meal-sync
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:🥣 Breakfast: Mini French Toast
-DESCRIPTION:Breakfast: Mini French Toast\nFruit: Fresh Apples\, Unsweetened
+SUMMARY:🥯 Breakfast: Whole Wheat Bagel
+DESCRIPTION:Breakfast: Whole Wheat Bagel\nFruit: Fresh Apples\, Unsweetened
   Raisins
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
@@ -814,9 +814,9 @@ UID:2026-10-21-lunch@school-meal-sync
 DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:🫓 Lunch: Cheese & Green Chile Tamale or Chicken Tamale
-DESCRIPTION:Lunch: Cheese & Green Chile Tamale or Chicken Tamale\nVegetable
- s: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh Oranges
+SUMMARY:🫓 Lunch: Cheese Quesadilla or Chicken and Cheese Quesadilla
+DESCRIPTION:Lunch: Cheese Quesadilla or Chicken and Cheese Quesadilla\nVege
+ tables: Celery Sticks\, Hummus Cup\nFruit: Fresh Bananas\, Fresh Oranges
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -825,9 +825,9 @@ UID:2026-10-22-breakfast@school-meal-sync
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:🍞 Breakfast: Banana Bread Slice
-DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Bananas\, Unsweeten
- ed Raisins
+SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
+DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Bananas\, U
+ nsweetened Raisins
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -860,10 +860,9 @@ UID:2026-10-23-lunch@school-meal-sync
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:🍕 Lunch: Pepperoni French Bread Pizza or Cheese French Bread Piz
- za
-DESCRIPTION:Lunch: Pepperoni French Bread Pizza or Cheese French Bread Pizz
- a\nVegetables: Salad Bar\nFruit: Fresh Oranges\, Fresh Apples
+SUMMARY:🍕 Lunch: Cheese Pizza Wedge
+DESCRIPTION:Lunch: Cheese Pizza Wedge\nVegetables: Salad Bar\nFruit: Fresh 
+ Oranges\, Fresh Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -908,7 +907,7 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:🌮 Lunch: Turkey Taco Nachos or Nachos with Beans
 DESCRIPTION:Lunch: Turkey Taco Nachos or Nachos with Beans\nVegetables: Sal
- ad Bar\nFruit: Fresh Oranges\, Fresh Pears
+ ad Bar\, Mild Salsa\nFruit: Fresh Oranges\, Fresh Pears
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -928,9 +927,11 @@ UID:2026-10-28-lunch@school-meal-sync
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:🫓 Lunch: Chicken and Cheese Quesadilla or Cheese Quesadilla
-DESCRIPTION:Lunch: Chicken and Cheese Quesadilla or Cheese Quesadilla\nVege
- tables: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh Oranges
+SUMMARY:🌯 Lunch: Bean & Cheese Burrito or Chicken\, Cheese & Rice Burrit
+ o
+DESCRIPTION:Lunch: Bean & Cheese Burrito or Chicken\, Cheese & Rice Burrito
+ \nVegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh Ora
+ nges
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -961,9 +962,9 @@ UID:2026-10-30-breakfast@school-meal-sync
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
-DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Apples\, Ap
- ple Juice
+SUMMARY:🍞 Breakfast: Banana Bread Slice
+DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Apples\, Apple Juic
+ e
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
