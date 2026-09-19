@@ -515,7 +515,7 @@ DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:🍽️ Lunch: Cheese Lasagna
 DESCRIPTION:Lunch: Cheese Lasagna\nVegetables: Salad Bar\nFruit: Fresh Bana
- nas\, Fresh Oranges
+ nas\, Orange Wedges
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -526,7 +526,7 @@ DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
 DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Bananas\, O
- range Tangerine Juice Box
+ range Tangerine Juice
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -537,7 +537,7 @@ DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🍞 Lunch: Cheese Breadsticks
 DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar\nFruit: Fresh 
- Oranges\, Fresh Apples
+ Apples\, Fresh Pears
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -547,8 +547,8 @@ DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:🍞 Breakfast: Lemon Breakfast Bread
-DESCRIPTION:Breakfast: Lemon Breakfast Bread\nFruit: Fresh Oranges\, Unswee
- tened Applesauce Cups
+DESCRIPTION:Breakfast: Lemon Breakfast Bread\nFruit: Fresh Apples\, Fresh P
+ ears
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -559,7 +559,7 @@ DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:🍔 Lunch: Cheeseburger or Plant-Based Burger w/ Cheese
 DESCRIPTION:Lunch: Cheeseburger or Plant-Based Burger w/ Cheese\nVegetables
- : Salad Bar\nFruit: Fresh Apples\, Fresh Oranges
+ : Salad Bar\nFruit: Orange Wedges\, Fresh Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -569,8 +569,8 @@ DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:🌮 Breakfast: Egg & Cheese Breakfast Taco
-DESCRIPTION:Breakfast: Egg & Cheese Breakfast Taco\nFruit: Fresh Apples\, U
- nsweetened Raisins
+DESCRIPTION:Breakfast: Egg & Cheese Breakfast Taco\nFruit: Orange Wedges\, 
+ Fresh Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -582,7 +582,7 @@ DTEND;VALUE=DATE:20261007
 SUMMARY:🧇 Lunch: Chicken Drumstick & Waffle or Kickin' Tenders and Waffl
  e
 DESCRIPTION:Lunch: Chicken Drumstick & Waffle or Kickin' Tenders and Waffle
- \nVegetables: Salad Bar\nFruit: Fresh Oranges\, Fresh Pears
+ \nVegetables: Salad Bar\nFruit: Orange Wedges\, Bosc Pear
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -592,8 +592,7 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
- Applesauce Cups
+DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Orange Wedges\, Bosc Pear
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -605,8 +604,8 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:🍽️ Lunch: Chicken Enchilada Empanada or Black Bean & Cheese Em
  panada
 DESCRIPTION:Lunch: Chicken Enchilada Empanada or Black Bean & Cheese Empana
- da\nVegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh O
- ranges
+ da\nVegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Bananas\, Fresh 
+ Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -616,8 +615,8 @@ DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:🥣 Breakfast: Strawberry Oatmeal Bar
-DESCRIPTION:Breakfast: Strawberry Oatmeal Bar\nFruit: Fresh Bananas\, Unswe
- etened Raisins
+DESCRIPTION:Breakfast: Strawberry Oatmeal Bar\nFruit: Fresh Bananas\, Fresh
+  Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -629,7 +628,7 @@ DTEND;VALUE=DATE:20261009
 SUMMARY:🍚 Lunch: Teriyaki Chicken & Rice or Plant-Based Teriyaki Chik'n 
  with Rice
 DESCRIPTION:Lunch: Teriyaki Chicken & Rice or Plant-Based Teriyaki Chik'n w
- ith Rice\nVegetables: Salad Bar\nFruit: Fresh Bananas\, Fresh Pears
+ ith Rice\nVegetables: Salad Bar\nFruit: Orange Wedges\, Fresh Pears
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -639,8 +638,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:🥣 Breakfast: Apple Empanada
-DESCRIPTION:Breakfast: Apple Empanada\nFruit: Fresh Apples\, Unsweetened Ap
- plesauce Cups
+DESCRIPTION:Breakfast: Apple Empanada\nFruit: Orange Wedges\, Fresh Pears
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -651,7 +649,7 @@ DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:🍞 Lunch: Garlic Cheese French Bread
 DESCRIPTION:Lunch: Garlic Cheese French Bread\nVegetables: Salad Bar\nFruit
- : Fresh Oranges\, Fresh Apples
+ : Orange Wedges\, Fresh Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -670,8 +668,8 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:🧇 Breakfast: Vanilla Liege Waffle
-DESCRIPTION:Breakfast: Vanilla Liege Waffle\nFruit: Fresh Apples\, Unsweete
- ned Raisins
+DESCRIPTION:Breakfast: Vanilla Liege Waffle\nFruit: Orange Wedges\, Fresh A
+ pples\nMisc.: Mozzarella String Cheese
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -682,7 +680,7 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:🍽️ Lunch: Meatball Sub or Meatless Meatball Sub
 DESCRIPTION:Lunch: Meatball Sub or Meatless Meatball Sub\nVegetables: Salad
-  Bar\nFruit: Fresh Oranges\, Fresh Apples\nGrains: Pretzel Goldfish
+  Bar\nFruit: Orange Wedges\, Fresh Apples\nGrains: Pretzel Goldfish
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -692,8 +690,7 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
- Applesauce Cups
+DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Orange Wedges\, Fresh Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -704,7 +701,7 @@ DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:🌮 Lunch: Chicken Taquitos or Bean Taquitos
 DESCRIPTION:Lunch: Chicken Taquitos or Bean Taquitos\nVegetables: Baby Carr
- ots\, Corn Niblets\, Mild Salsa\nFruit: Fresh Apples\, Fresh Pears
+ ots\, Corn Niblets\, Mild Salsa\nFruit: Fresh Bananas\, Fresh Pears
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -714,8 +711,7 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:🧁 Breakfast: Banana Muffin
-DESCRIPTION:Breakfast: Banana Muffin\nFruit: Fresh Bananas\, Unsweetened Ra
- isins
+DESCRIPTION:Breakfast: Banana Muffin\nFruit: Fresh Bananas\, Fresh Pears
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -726,7 +722,7 @@ DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:🍝 Lunch: Pesto Pasta with Chicken or Pesto Pasta
 DESCRIPTION:Lunch: Pesto Pasta with Chicken or Pesto Pasta\nVegetables: Sal
- ad Bar\nFruit: Fresh Bananas\, Fresh Oranges
+ ad Bar\nFruit: Orange Wedges\, Sonoma County Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -735,9 +731,9 @@ UID:2026-10-16-breakfast@school-meal-sync
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
-DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Apples\, Un
- sweetened Applesauce Cups
+SUMMARY:🍞 Breakfast: Pumpkin Bread Slice
+DESCRIPTION:Breakfast: Pumpkin Bread Slice\nFruit: Orange Wedges\, Sonoma C
+ ounty Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -748,7 +744,7 @@ DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:🍕 Lunch: Pepperoni Pizza Calzone or Cheese Pizza Calzone
 DESCRIPTION:Lunch: Pepperoni Pizza Calzone or Cheese Pizza Calzone\nVegetab
- les: Salad Bar\nFruit: Fresh Oranges\, Fresh Pears
+ les: Salad Bar\nFruit: Orange Wedges\, Fresh Pears
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -758,8 +754,7 @@ DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:🥞 Breakfast: Pancakes
-DESCRIPTION:Breakfast: Pancakes\nFruit: Fresh Oranges\, Unsweetened Applesa
- uce Cups
+DESCRIPTION:Breakfast: Pancakes\nFruit: Orange Wedges\, Fresh Pears
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -770,7 +765,7 @@ DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:🍔 Lunch: Hamburger or Vegan Burger
 DESCRIPTION:Lunch: Hamburger or Vegan Burger\nVegetables: Salad Bar\nFruit:
-  Fresh Apples\, Fresh Oranges
+  Fresh Grapes (with stem)\, Fresh Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -780,8 +775,8 @@ DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:🥯 Breakfast: Whole Wheat Bagel
-DESCRIPTION:Breakfast: Whole Wheat Bagel\nFruit: Fresh Apples\, Unsweetened
-  Raisins
+DESCRIPTION:Breakfast: Whole Wheat Bagel\nFruit: Fresh Grapes (with stem)\,
+  Fresh Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -793,8 +788,8 @@ DTEND;VALUE=DATE:20261021
 SUMMARY:🥪 Lunch: Chicken Parmesan Sandwich or Rebellyous Kickin' Parmesa
  n Sandwich (Plant-based)
 DESCRIPTION:Lunch: Chicken Parmesan Sandwich or Rebellyous Kickin' Parmesan
-  Sandwich (Plant-based)\nVegetables: Salad Bar\nFruit: Fresh Oranges\, Fre
- sh Pears
+  Sandwich (Plant-based)\nVegetables: Salad Bar\nFruit: Orange Wedges\, Bos
+ c Pear
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -804,8 +799,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
- Applesauce Cups
+DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Orange Wedges\, Bosc Pear
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -816,7 +810,8 @@ DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🫓 Lunch: Cheese Quesadilla or Chicken and Cheese Quesadilla
 DESCRIPTION:Lunch: Cheese Quesadilla or Chicken and Cheese Quesadilla\nVege
- tables: Celery Sticks\, Hummus Cup\nFruit: Fresh Bananas\, Fresh Oranges
+ tables: Celery Sticks\, Corn Niblets\, Hummus Cup\nFruit: Fresh Bananas\, 
+ Sonoma County Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -826,8 +821,8 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
-DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Bananas\, U
- nsweetened Raisins
+DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Bananas\, S
+ onoma County Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -839,7 +834,7 @@ DTEND;VALUE=DATE:20261023
 SUMMARY:🍚 Lunch: Sweet & Sour Chicken and Rice or Plant-Based Sweet & So
  ur Chik'n with Rice
 DESCRIPTION:Lunch: Sweet & Sour Chicken and Rice or Plant-Based Sweet & Sou
- r Chik'n with Rice\nVegetables: Salad Bar\nFruit: Fresh Bananas\, Fresh Pe
+ r Chik'n with Rice\nVegetables: Salad Bar\nFruit: Orange Wedges\, Fresh Pe
  ars
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
@@ -850,8 +845,8 @@ DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:🥪 Breakfast: Ham and Swiss Cheese Croissant
-DESCRIPTION:Breakfast: Ham and Swiss Cheese Croissant\nFruit: Fresh Apples\
- , Unsweetened Applesauce Cups
+DESCRIPTION:Breakfast: Ham and Swiss Cheese Croissant\nFruit: Orange Wedges
+ \, Fresh Pears
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -862,7 +857,7 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:🍕 Lunch: Cheese Pizza Wedge
 DESCRIPTION:Lunch: Cheese Pizza Wedge\nVegetables: Salad Bar\nFruit: Fresh 
- Oranges\, Fresh Apples
+ Apples\, Diced Frozen Peach Cup
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -872,8 +867,8 @@ DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:🧇 Breakfast: Maple Liege Waffle
-DESCRIPTION:Breakfast: Maple Liege Waffle\nFruit: Fresh Oranges\, Unsweeten
- ed Applesauce Cups
+DESCRIPTION:Breakfast: Maple Liege Waffle\nFruit: Fresh Apples\, Very Berry
+  Juice
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -884,7 +879,7 @@ DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:🍗 Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders
 DESCRIPTION:Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders\nVegeta
- bles: Salad Bar\nFruit: Fresh Apples\, Fresh Oranges\nGrains: Whole-Grain 
+ bles: Salad Bar\nFruit: Fresh Apples\, Orange Wedges\nGrains: Whole-Grain 
  Artisan Roll
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
@@ -896,7 +891,7 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:🥪 Breakfast: Egg & Cheese English Muffin Sandwich
 DESCRIPTION:Breakfast: Egg & Cheese English Muffin Sandwich\nFruit: Fresh A
- pples\, Unsweetened Raisins
+ pples\, Orange Wedges
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -907,7 +902,7 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:🌮 Lunch: Turkey Taco Nachos or Nachos with Beans
 DESCRIPTION:Lunch: Turkey Taco Nachos or Nachos with Beans\nVegetables: Sal
- ad Bar\, Mild Salsa\nFruit: Fresh Oranges\, Fresh Pears
+ ad Bar\, Mild Salsa\nFruit: Orange Wedges\, Asian Pear from Earthseed Farm
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -917,8 +912,8 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
- Applesauce Cups
+DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Orange Wedges\, FEED Sonoma 
+ Seasonal Special - Asian Pears
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -930,8 +925,8 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:🌯 Lunch: Bean & Cheese Burrito or Chicken\, Cheese & Rice Burrit
  o
 DESCRIPTION:Lunch: Bean & Cheese Burrito or Chicken\, Cheese & Rice Burrito
- \nVegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh Ora
- nges
+ \nVegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Bananas\, Fresh Ap
+ ples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -941,8 +936,8 @@ DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🧁 Breakfast: Sunrise Muffin
-DESCRIPTION:Breakfast: Sunrise Muffin\nFruit: Fresh Bananas\, Unsweetened R
- aisins
+DESCRIPTION:Breakfast: Sunrise Muffin\nFruit: Fresh Bananas\, Sonoma County
+  Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -953,7 +948,7 @@ DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🍝 Lunch: Pasta with Meat Sauce or Pasta with Marinara Sauce
 DESCRIPTION:Lunch: Pasta with Meat Sauce or Pasta with Marinara Sauce\nVege
- tables: Salad Bar\nFruit: Fresh Bananas\, Fresh Apples
+ tables: Salad Bar\nFruit: Fresh Apples\, Fresh Pears
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -963,8 +958,8 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:🍞 Breakfast: Banana Bread Slice
-DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Apples\, Apple Juic
- e
+DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Apples\, Fresh Pear
+ s
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -974,8 +969,8 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:🍞 Lunch: Cheese Breadsticks
-DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar\nFruit: Fresh 
- Oranges\, Fresh Pears
+DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar\nFruit: Orange
+  Wedges\, Fresh Pears
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
