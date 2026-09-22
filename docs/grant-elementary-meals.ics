@@ -559,7 +559,7 @@ DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:🍔 Lunch: Cheeseburger or Plant-Based Burger w/ Cheese
 DESCRIPTION:Lunch: Cheeseburger or Plant-Based Burger w/ Cheese\nVegetables
- : Salad Bar\nFruit: Orange Wedges\, Fresh Apples
+ : Salad Bar\nFruit: Kiwi\, Fresh Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -569,8 +569,8 @@ DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:🌮 Breakfast: Egg & Cheese Breakfast Taco
-DESCRIPTION:Breakfast: Egg & Cheese Breakfast Taco\nFruit: Orange Wedges\, 
- Fresh Apples
+DESCRIPTION:Breakfast: Egg & Cheese Breakfast Taco\nFruit: Kiwi\, Fresh App
+ les
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
