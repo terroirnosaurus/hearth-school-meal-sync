@@ -494,7 +494,8 @@ DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:🫓 Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa
 DESCRIPTION:Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa\nVege
- tables: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples\, Fresh Pears
+ tables: Baby Carrots\, Corn Niblets\nFruit: Sonoma County Apples\, Bosc Pe
+ ar
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -504,7 +505,8 @@ DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:🧁 Breakfast: Mantecada Muffin
-DESCRIPTION:Breakfast: Mantecada Muffin\nFruit: Fresh Apples\, Fresh Pears
+DESCRIPTION:Breakfast: Mantecada Muffin\nFruit: Sonoma County Apples\, Bosc
+  Pear
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
