@@ -603,11 +603,11 @@ UID:2026-10-07-lunch@school-meal-sync
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:🍽️ Lunch: Chicken Enchilada Empanada or Black Bean & Cheese Em
- panada
-DESCRIPTION:Lunch: Chicken Enchilada Empanada or Black Bean & Cheese Empana
- da\nVegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Bananas\, Fresh 
- Apples
+SUMMARY:🍽️ Lunch: Chicken Enchilada Empanada or Bean and Cheese Empana
+ da
+DESCRIPTION:Lunch: Chicken Enchilada Empanada or Bean and Cheese Empanada\n
+ Vegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Bananas\, Fresh Appl
+ es
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -682,7 +682,7 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:🍽️ Lunch: Meatball Sub or Meatless Meatball Sub
 DESCRIPTION:Lunch: Meatball Sub or Meatless Meatball Sub\nVegetables: Salad
-  Bar\nFruit: Orange Wedges\, Fresh Apples\nGrains: Pretzel Goldfish
+  Bar\nFruit: Fresh Pears\, Fresh Apples\nGrains: Pretzel Goldfish
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -692,7 +692,7 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Orange Wedges\, Fresh Apples
+DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Pears\, Fresh Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
