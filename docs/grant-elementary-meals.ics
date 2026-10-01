@@ -606,8 +606,8 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:🍽️ Lunch: Chicken Enchilada Empanada or Bean and Cheese Empana
  da
 DESCRIPTION:Lunch: Chicken Enchilada Empanada or Bean and Cheese Empanada\n
- Vegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Bananas\, Fresh Appl
- es
+ Vegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Bananas\, Sonoma Cou
+ nty Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -617,8 +617,8 @@ DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:🥣 Breakfast: Strawberry Oatmeal Bar
-DESCRIPTION:Breakfast: Strawberry Oatmeal Bar\nFruit: Fresh Bananas\, Fresh
-  Apples
+DESCRIPTION:Breakfast: Strawberry Oatmeal Bar\nFruit: Fresh Bananas\, Sonom
+ a County Apples
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
