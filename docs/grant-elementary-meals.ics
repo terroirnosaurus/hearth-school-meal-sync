@@ -868,8 +868,8 @@ DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:🧇 Breakfast: Maple Liege Waffle
-DESCRIPTION:Breakfast: Maple Liege Waffle\nFruit: Fresh Apples\, Very Berry
-  Juice
+DESCRIPTION:Breakfast: Maple Liege Waffle\nFruit: Fresh Apples\, Fresh Pear
+ s
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -959,8 +959,8 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:🍞 Breakfast: Banana Bread Slice
-DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Apples\, Fresh Pear
- s
+DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Apples\, Very Berry
+  Juice
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
