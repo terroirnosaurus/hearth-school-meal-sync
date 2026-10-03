@@ -603,11 +603,9 @@ UID:2026-10-07-lunch@school-meal-sync
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:🍽️ Lunch: Chicken Enchilada Empanada or Bean and Cheese Empana
- da
-DESCRIPTION:Lunch: Chicken Enchilada Empanada or Bean and Cheese Empanada\n
- Vegetables: Baby Carrots\, Corn Niblets\nFruit: Fresh Bananas\, Sonoma Cou
- nty Apples
+SUMMARY:🍞 Lunch: Garlic Cheese French Bread
+DESCRIPTION:Lunch: Garlic Cheese French Bread\nVegetables: Baby Carrots\, C
+ orn Niblets\nFruit: Fresh Bananas\, Sonoma County Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -649,9 +647,10 @@ UID:2026-10-09-lunch@school-meal-sync
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:🍞 Lunch: Garlic Cheese French Bread
-DESCRIPTION:Lunch: Garlic Cheese French Bread\nVegetables: Salad Bar\nFruit
- : Orange Wedges\, Fresh Apples
+SUMMARY:🍽️ Lunch: Chicken Enchilada Empanada or Black Bean & Cheese Em
+ panada
+DESCRIPTION:Lunch: Chicken Enchilada Empanada or Black Bean & Cheese Empana
+ da\nVegetables: Salad Bar\nFruit: Orange Wedges\, Fresh Apples
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
