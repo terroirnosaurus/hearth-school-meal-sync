@@ -865,7 +865,7 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:🍕 Lunch: Cheese Pizza Wedge
 DESCRIPTION:Lunch: Cheese Pizza Wedge\nVegetables: Salad Bar with Kidney Be
- ans\nFruit: Sonoma County Apples
+ ans\nFruit: Sonoma County Apples\, Fresh Plum
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -875,8 +875,8 @@ DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:🧇 Breakfast: Maple Liege Waffle
-DESCRIPTION:Breakfast: Maple Liege Waffle\nFruit: Fresh Apples\, Fresh Pear
- s
+DESCRIPTION:Breakfast: Maple Liege Waffle\nFruit: Sonoma County Apples\, Fr
+ esh Plum
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
