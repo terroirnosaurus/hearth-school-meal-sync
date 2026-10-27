@@ -25,486 +25,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-09-01-breakfast@school-meal-sync
-DTSTAMP:20260901T000000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:🥪 Breakfast: Egg & Cheese English Muffin Sandwich
-DESCRIPTION:Breakfast: Egg & Cheese English Muffin Sandwich\nFruit: Fresh P
- lum\, Unsweetened Raisins
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-01-lunch@school-meal-sync
-DTSTAMP:20260901T000000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:🥪 Lunch: BBQ Pulled Pork Sandwich or Vegan BBQ Burger
-DESCRIPTION:Lunch: BBQ Pulled Pork Sandwich or Vegan BBQ Burger\nVegetables
- : Salad Bar with Garbanzo Beans\nFruit: Fresh Oranges
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-02-breakfast@school-meal-sync
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Unsweetened 
- Applesauce Cups
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-02-lunch@school-meal-sync
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:🫓 Lunch: Cheese Quesadilla or Chicken and Cheese Quesadilla
-DESCRIPTION:Lunch: Cheese Quesadilla or Chicken and Cheese Quesadilla\nVege
- tables: Baby Carrots\, Corn Niblets\, Mild Salsa\nFruit: Fresh Bananas
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-03-breakfast@school-meal-sync
-DTSTAMP:20260903T000000Z
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:🧁 Breakfast: Sunrise Muffin
-DESCRIPTION:Breakfast: Sunrise Muffin\nFruit: Fresh Bananas\, Unsweetened R
- aisins\nMisc.: Honey Roasted Sunflower Seeds
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-03-lunch@school-meal-sync
-DTSTAMP:20260903T000000Z
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:🍝 Lunch: Pesto Pasta with Chicken or Pesto Pasta
-DESCRIPTION:Lunch: Pesto Pasta with Chicken or Pesto Pasta\nVegetables: Sal
- ad Bar with Kidney Beans\nFruit: Sonoma County Apples
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-04-breakfast@school-meal-sync
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
-DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Sonoma County App
- les\, Apple Juice
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-04-lunch@school-meal-sync
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:🍕 Lunch: Pepperoni Pizza Calzone or Cheese Pizza Calzone
-DESCRIPTION:Lunch: Pepperoni Pizza Calzone or Cheese Pizza Calzone\nVegetab
- les: Salad Bar with Garbanzo Beans\nFruit: Fresh Oranges
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-07-no-school@school-meal-sync
-DTSTAMP:20260907T000000Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:🏠 No School Meals: Labor Day
-CATEGORIES:No School
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-08-breakfast@school-meal-sync
-DTSTAMP:20260908T000000Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:🍞 Breakfast: Lemon Breakfast Bread
-DESCRIPTION:Breakfast: Lemon Breakfast Bread\nFruit: Fresh Oranges\, Unswee
- tened Raisins
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-08-lunch@school-meal-sync
-DTSTAMP:20260908T000000Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:🥪 Lunch: Chicken Parmesan Sandwich or Rebellyous Kickin' Parmesa
- n Sandwich (Plant-based)
-DESCRIPTION:Lunch: Chicken Parmesan Sandwich or Rebellyous Kickin' Parmesan
-  Sandwich (Plant-based)\nVegetables: Salad Bar with Garbanzo Beans\nFruit:
-  Fresh Nectarine
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-09-breakfast@school-meal-sync
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Nectarine\, Unsweetene
- d Applesauce Cups
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-09-lunch@school-meal-sync
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:🫓 Lunch: Cheese & Green Chile Tamale or Chicken Tamale
-DESCRIPTION:Lunch: Cheese & Green Chile Tamale or Chicken Tamale\nVegetable
- s: Baby Carrots\, Corn Niblets\nFruit: Fresh Apples
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-10-breakfast@school-meal-sync
-DTSTAMP:20260910T000000Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:🍞 Breakfast: White Concha
-DESCRIPTION:Breakfast: White Concha\nFruit: Fresh Apples\, Unsweetened Rais
- ins
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-10-lunch@school-meal-sync
-DTSTAMP:20260910T000000Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:🍚 Lunch: Sweet & Sour Chicken and Rice or Plant-Based Sweet & So
- ur Chik'n with Rice
-DESCRIPTION:Lunch: Sweet & Sour Chicken and Rice or Plant-Based Sweet & Sou
- r Chik'n with Rice\nVegetables: Salad Bar with Kidney Beans\nFruit: Fresh 
- Bananas
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-11-breakfast@school-meal-sync
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:🥯 Breakfast: Whole Wheat Bagel
-DESCRIPTION:Breakfast: Whole Wheat Bagel\nFruit: Fresh Bananas\, Unsweetene
- d Applesauce Cups
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-11-lunch@school-meal-sync
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:🍕 Lunch: Pepperoni Smart Pizza or Cheese French Bread Pizza
-DESCRIPTION:Lunch: Pepperoni Smart Pizza or Cheese French Bread Pizza\nVege
- tables: Salad Bar with Garbanzo Beans\nFruit: Fresh Oranges\, Sonoma Count
- y Apples
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-14-breakfast@school-meal-sync
-DTSTAMP:20260914T000000Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:🧇 Breakfast: Vanilla Liege Waffle
-DESCRIPTION:Breakfast: Vanilla Liege Waffle\nFruit: Fresh Oranges\, Sonoma 
- County Apples\nMisc.: Mozzarella String Cheese
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-14-lunch@school-meal-sync
-DTSTAMP:20260914T000000Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:🍗 Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders
-DESCRIPTION:Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders\nVegeta
- bles: Salad Bar with Kidney Beans\nFruit: Fresh Peach\, Fresh Apples\nGrai
- ns: Whole-Grain Artisan Roll
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-15-breakfast@school-meal-sync
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:🍳 Breakfast: Egg & Cheese Breakfast Scrambler
-DESCRIPTION:Breakfast: Egg & Cheese Breakfast Scrambler\nFruit: Fresh Peach
- \, Fresh Apples
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-15-lunch@school-meal-sync
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:🌮 Lunch: Turkey Taco Nachos or Nachos with Beans
-DESCRIPTION:Lunch: Turkey Taco Nachos or Nachos with Beans\nVegetables: Sal
- ad Bar with Garbanzo Beans\nFruit: Fresh Oranges\, Locally Grown Pears
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-16-breakfast@school-meal-sync
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Fresh Pears
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-16-lunch@school-meal-sync
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:🌮 Lunch: Chicken Taquitos or Bean Taquitos
-DESCRIPTION:Lunch: Chicken Taquitos or Bean Taquitos\nVegetables: Baby Carr
- ots\, Corn Niblets\nFruit: Sonoma County Apples\, Fresh Oranges
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-17-breakfast@school-meal-sync
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:🧁 Breakfast: Banana Muffin
-DESCRIPTION:Breakfast: Banana Muffin\nFruit: Sonoma County Apples\, Fresh O
- ranges
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-17-lunch@school-meal-sync
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:🍝 Lunch: Pasta with Meat Sauce or Pasta with Marinara Sauce
-DESCRIPTION:Lunch: Pasta with Meat Sauce or Pasta with Marinara Sauce\nVege
- tables: Salad Bar with Kidney Beans\nFruit: Fresh Bananas\, Fresh Pears
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-18-breakfast@school-meal-sync
-DTSTAMP:20260918T000000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
-DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Bananas\, F
- resh Pears
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-18-lunch@school-meal-sync
-DTSTAMP:20260918T000000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:🍞 Lunch: Cheese Breadsticks
-DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar with Garbanzo 
- Beans\nFruit: Fresh Oranges\, Fresh Apples
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-21-breakfast@school-meal-sync
-DTSTAMP:20260921T000000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:🧁 Breakfast: Blueberry Muffin
-DESCRIPTION:Breakfast: Blueberry Muffin\nFruit: Fresh Oranges\, Fresh Apple
- s
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-21-lunch@school-meal-sync
-DTSTAMP:20260921T000000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:🍔 Lunch: Cheeseburger or Plant-Based Burger w/ Cheese
-DESCRIPTION:Lunch: Cheeseburger or Plant-Based Burger w/ Cheese\nVegetables
- : Salad Bar with Kidney Beans\nFruit: Fresh Plum\, Fresh Pears
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-22-breakfast@school-meal-sync
-DTSTAMP:20260922T000000Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:🥞 Breakfast: Pancakes
-DESCRIPTION:Breakfast: Pancakes\nFruit: Fresh Plum\, Fresh Pears
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-22-lunch@school-meal-sync
-DTSTAMP:20260922T000000Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:🥪 Lunch: Grilled Cheese Sandwich or BBQ Beef Rib Sandwich
-DESCRIPTION:Lunch: Grilled Cheese Sandwich or BBQ Beef Rib Sandwich\nVegeta
- bles: Salad Bar with Garbanzo Beans\nFruit: Fresh Oranges\, Fresh Apples
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-23-breakfast@school-meal-sync
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Fresh Apples
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-23-lunch@school-meal-sync
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:🌯 Lunch: Bean & Cheese Burrito or Chicken\, Cheese & Rice Burrit
- o
-DESCRIPTION:Lunch: Bean & Cheese Burrito or Chicken\, Cheese & Rice Burrito
- \nVegetables: Jicama Sticks\, Corn Niblets\nFruit: Sonoma County Apples\, 
- Fresh Pears
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-24-breakfast@school-meal-sync
-DTSTAMP:20260924T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:🍞 Breakfast: Banana Bread Slice
-DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Sonoma County Apples\, Fr
- esh Pears
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-24-lunch@school-meal-sync
-DTSTAMP:20260924T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:🍚 Lunch: Orange Chicken & Rice or Plant-Based Sweet & Sour Chik'
- n with Rice
-DESCRIPTION:Lunch: Orange Chicken & Rice or Plant-Based Sweet & Sour Chik'n
-  with Rice\nVegetables: Salad Bar with Kidney Beans\nFruit: Fresh Bananas\
- , Fresh Oranges
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-25-breakfast@school-meal-sync
-DTSTAMP:20260925T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:🥪 Breakfast: Ham and Swiss Cheese Croissant
-DESCRIPTION:Breakfast: Ham and Swiss Cheese Croissant\nFruit: Fresh Bananas
- \, Fresh Oranges
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-25-lunch@school-meal-sync
-DTSTAMP:20260925T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:🍕 Lunch: Pepperoni Pizza Wedge or Cheese Pizza Wedge
-DESCRIPTION:Lunch: Pepperoni Pizza Wedge or Cheese Pizza Wedge\nVegetables:
-  Salad Bar with Garbanzo Beans\nFruit: Fresh Oranges\, Fresh Pears
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-28-breakfast@school-meal-sync
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:🧇 Breakfast: Maple Belgian Waffle
-DESCRIPTION:Breakfast: Maple Belgian Waffle\nFruit: Fresh Oranges\, Fresh P
- ears
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-28-lunch@school-meal-sync
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:🍔 Lunch: Breaded Chicken Burger or Rebellyous Kickin' Sandwich (
- Plant-based)
-DESCRIPTION:Lunch: Breaded Chicken Burger or Rebellyous Kickin' Sandwich (P
- lant-based)\nVegetables: Salad Bar with Kidney Beans\nFruit: Fresh Peach\,
-  Fresh Pears
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-29-breakfast@school-meal-sync
-DTSTAMP:20260929T000000Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:🥪 Breakfast: Egg & Cheese English Muffin Sandwich
-DESCRIPTION:Breakfast: Egg & Cheese English Muffin Sandwich\nFruit: Fresh P
- each\, Fresh Pears
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-29-lunch@school-meal-sync
-DTSTAMP:20260929T000000Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:🍝 Lunch: Mac & Cheese or Hot Dog
-DESCRIPTION:Lunch: Mac & Cheese or Hot Dog\nVegetables: Salad Bar with Garb
- anzo Beans\nFruit: Fresh Oranges\, Fresh Apples
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-30-breakfast@school-meal-sync
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:🥣 Breakfast: Assorted Cereal
-DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Oranges\, Fresh Apples
-CATEGORIES:Breakfast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-30-lunch@school-meal-sync
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:🫓 Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa
-DESCRIPTION:Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa\nVege
- tables: Baby Carrots\, Corn Niblets\nFruit: Sonoma County Apples\, Fresh P
- ears
-CATEGORIES:Lunch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-01-breakfast@school-meal-sync
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
@@ -984,6 +504,395 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:🍞 Lunch: Cheese Breadsticks
 DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar with Garbanzo 
  Beans\nFruit: Fresh Orange Wedges\, Fresh Pears
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-breakfast@school-meal-sync
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🍞 Breakfast: Lemon Breakfast Bread
+DESCRIPTION:Breakfast: Lemon Breakfast Bread\nFruit: Fresh Orange Wedges\, 
+ Fresh Pears
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-lunch@school-meal-sync
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🍔 Lunch: Cheeseburger or Plant-Based Burger w/ Cheese
+DESCRIPTION:Lunch: Cheeseburger or Plant-Based Burger w/ Cheese\nVegetables
+ : Salad Bar with Kidney Beans\nFruit: Fresh Apples\, Fresh Plum
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-breakfast@school-meal-sync
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🌮 Breakfast: Egg & Cheese Breakfast Taco
+DESCRIPTION:Breakfast: Egg & Cheese Breakfast Taco\nFruit: Fresh Apples\, F
+ resh Plum
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-lunch@school-meal-sync
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🥪 Lunch: Grilled Cheese Sandwich or BBQ Beef Rib Sandwich
+DESCRIPTION:Lunch: Grilled Cheese Sandwich or BBQ Beef Rib Sandwich\nVegeta
+ bles: Salad Bar with Kidney Beans\nFruit: Fresh Orange Wedges\, Fresh Pear
+ s
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-breakfast@school-meal-sync
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🥣 Breakfast: Assorted Cereal
+DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Orange Wedges\, Fresh 
+ Pears
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-lunch@school-meal-sync
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🫓 Lunch: Cheese & Green Chile Tamale or Chicken Tamale
+DESCRIPTION:Lunch: Cheese & Green Chile Tamale or Chicken Tamale\nVegetable
+ s: Baby Carrots\, Corn Niblets\nFruit: Fresh Bananas\, Fresh Apples
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-breakfast@school-meal-sync
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🥣 Breakfast: Strawberry Oatmeal Bar
+DESCRIPTION:Breakfast: Strawberry Oatmeal Bar\nFruit: Fresh Bananas\, Fresh
+  Apples
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-lunch@school-meal-sync
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🍚 Lunch: Orange Chicken & Rice or Plant-Based Sweet & Sour Chik'
+ n with Rice
+DESCRIPTION:Lunch: Orange Chicken & Rice or Plant-Based Sweet & Sour Chik'n
+  with Rice\nVegetables: Salad Bar with Kidney Beans\nFruit: Fresh Orange W
+ edges\, Kiwi
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-breakfast@school-meal-sync
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🥯 Breakfast: Whole Wheat Bagel
+DESCRIPTION:Breakfast: Whole Wheat Bagel\nFruit: Fresh Orange Wedges\, Kiwi
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-lunch@school-meal-sync
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🍕 Lunch: Cheese Pizza Wedge or Pepperoni Pizza Wedge
+DESCRIPTION:Lunch: Cheese Pizza Wedge or Pepperoni Pizza Wedge\nVegetables:
+  Salad Bar with Kidney Beans\nFruit: Fresh Apples\, Fresh Pears
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-breakfast@school-meal-sync
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🧇 Breakfast: Maple Belgian Waffle
+DESCRIPTION:Breakfast: Maple Belgian Waffle\nFruit: Fresh Apples\, Fresh Pe
+ ars
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-lunch@school-meal-sync
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🍔 Lunch: Breaded Chicken Burger or Rebellyous Kickin' Sandwich (
+ Plant-based)
+DESCRIPTION:Lunch: Breaded Chicken Burger or Rebellyous Kickin' Sandwich (P
+ lant-based)\nVegetables: Salad Bar with Garbanzo Beans\nFruit: Fresh Orang
+ e Wedges\, Fresh Apples
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-breakfast@school-meal-sync
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🧁 Breakfast: Banana Muffin
+DESCRIPTION:Breakfast: Banana Muffin\nFruit: Fresh Orange Wedges\, Fresh Ap
+ ples
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-lunch@school-meal-sync
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🫓 Lunch: Birria and Cheese Pupusa or Bean and Cheese Pupusa
+DESCRIPTION:Lunch: Birria and Cheese Pupusa or Bean and Cheese Pupusa\nVege
+ tables: Salad Bar with Garbanzo Beans\, Corn Niblets\nFruit: Fresh Apples\
+ , Fresh Pears
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-no-school@school-meal-sync
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🏠 No School Meals: Veterans Day
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-breakfast@school-meal-sync
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🥣 Breakfast: Assorted Cereal
+DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Apples\, Fresh Pears
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-lunch@school-meal-sync
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🍝 Lunch: Mac & Cheese or Hot Dog
+DESCRIPTION:Lunch: Mac & Cheese or Hot Dog\nVegetables: Salad Bar with Garb
+ anzo Beans\nFruit: Fresh Bananas\, Fresh Orange Wedges
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-breakfast@school-meal-sync
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🍦 Breakfast: Vanilla Yogurt and Granola
+DESCRIPTION:Breakfast: Vanilla Yogurt and Granola\nFruit: Fresh Bananas\, F
+ resh Orange Wedges
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-lunch@school-meal-sync
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🍞 Lunch: Cheese Breadsticks
+DESCRIPTION:Lunch: Cheese Breadsticks\nVegetables: Salad Bar with Garbanzo 
+ Beans\nFruit: Fresh Apples\, Fresh Pears
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-breakfast@school-meal-sync
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🧁 Breakfast: Blueberry Muffin
+DESCRIPTION:Breakfast: Blueberry Muffin\nFruit: Fresh Apples\, Fresh Pears
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-lunch@school-meal-sync
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🍚 Lunch: Teriyaki Chicken & Rice or Plant-Based Teriyaki Chik'n 
+ with Rice
+DESCRIPTION:Lunch: Teriyaki Chicken & Rice or Plant-Based Teriyaki Chik'n w
+ ith Rice\nVegetables: Salad Bar with Kidney Beans\nFruit: Fresh Orange Wed
+ ges\, Kiwi
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-breakfast@school-meal-sync
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🥞 Breakfast: Mini Maple Pancakes
+DESCRIPTION:Breakfast: Mini Maple Pancakes\nFruit: Fresh Orange Wedges\, Ki
+ wi
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-lunch@school-meal-sync
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🍽️ Lunch: Black Bean & Cheese Empanada
+DESCRIPTION:Lunch: Black Bean & Cheese Empanada\nVegetables: Salad Bar with
+  Kidney Beans\nFruit: Fresh Apples\, Fresh Pears
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-breakfast@school-meal-sync
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🥣 Breakfast: Assorted Cereal
+DESCRIPTION:Breakfast: Assorted Cereal\nFruit: Fresh Apples\, Fresh Pears
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-lunch@school-meal-sync
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🍔 Lunch: Hamburger or Vegan Burger
+DESCRIPTION:Lunch: Hamburger or Vegan Burger\nVegetables: Salad Bar with Ki
+ dney Beans\nFruit: Fresh Bananas\, Fresh Orange Wedges
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-breakfast@school-meal-sync
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🍞 Breakfast: Banana Bread Slice
+DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Bananas\, Fresh Ora
+ nge Wedges
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-lunch@school-meal-sync
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🍗 Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders
+DESCRIPTION:Lunch: Chicken Drumstick or Plant-Based Kickin' Tenders\nVegeta
+ bles: Salad Bar with Kidney Beans\, Mashed Potatoes\nFruit: Fresh Apples\,
+  Fresh Pears\nGrains: Whole-Grain Artisan Roll
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-breakfast@school-meal-sync
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🥪 Breakfast: Apple Croissant
+DESCRIPTION:Breakfast: Apple Croissant\nFruit: Fresh Apples\, Fresh Pears
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-lunch@school-meal-sync
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🍞 Lunch: Garlic Cheese French Bread
+DESCRIPTION:Lunch: Garlic Cheese French Bread\nVegetables: Baby Carrots\, C
+ orn Niblets\nFruit: Fresh Apples\, Fresh Orange Wedges
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-no-school@school-meal-sync
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🏠 No School Meals: Thanksgiving Break
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-no-school@school-meal-sync
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🏠 No School Meals: Thanksgiving Break
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-no-school@school-meal-sync
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🏠 No School Meals: Thanksgiving Break
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-no-school@school-meal-sync
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🏠 No School Meals: Thanksgiving Break
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-no-school@school-meal-sync
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🏠 No School Meals: Thanksgiving Break
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-breakfast@school-meal-sync
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🥣 Breakfast: Apple Oatmeal Bar
+DESCRIPTION:Breakfast: Apple Oatmeal Bar\nFruit: Unsweetened Applesauce Cup
+ s\, Orange Tangerine Juice
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-lunch@school-meal-sync
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🍗 Lunch: Chicken Tenders or Plant-Based Kickin' Tenders
+DESCRIPTION:Lunch: Chicken Tenders or Plant-Based Kickin' Tenders\nVegetabl
+ es: Salad Bar with Garbanzo Beans\nFruit: Fresh Apples\, Kiwi\nGrains: Pre
+ tzel Goldfish
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
