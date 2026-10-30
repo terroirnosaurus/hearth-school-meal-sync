@@ -613,9 +613,11 @@ UID:2026-11-06-lunch@school-meal-sync
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:🍕 Lunch: Cheese Pizza Wedge or Pepperoni Pizza Wedge
-DESCRIPTION:Lunch: Cheese Pizza Wedge or Pepperoni Pizza Wedge\nVegetables:
-  Salad Bar with Kidney Beans\nFruit: Fresh Apples\, Fresh Pears
+SUMMARY:🍕 Lunch: Cheese French Bread Pizza or Pepperoni French Bread Piz
+ za
+DESCRIPTION:Lunch: Cheese French Bread Pizza or Pepperoni French Bread Pizz
+ a\nVegetables: Salad Bar with Kidney Beans\nFruit: Fresh Apples\, Fresh Pe
+ ars
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
