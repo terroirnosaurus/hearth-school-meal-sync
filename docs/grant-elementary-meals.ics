@@ -814,8 +814,9 @@ UID:2026-11-20-breakfast@school-meal-sync
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:🥪 Breakfast: Apple Croissant
-DESCRIPTION:Breakfast: Apple Croissant\nFruit: Fresh Apples\, Fresh Pears
+SUMMARY:🥪 Breakfast: Ham and Swiss Cheese Croissant
+DESCRIPTION:Breakfast: Ham and Swiss Cheese Croissant\nFruit: Fresh Apples\
+ , Fresh Pears
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -893,8 +894,8 @@ DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:🍗 Lunch: Chicken Tenders or Plant-Based Kickin' Tenders
 DESCRIPTION:Lunch: Chicken Tenders or Plant-Based Kickin' Tenders\nVegetabl
- es: Salad Bar with Garbanzo Beans\nFruit: Fresh Apples\, Mandarin Oranges\
- nGrains: Pretzel Goldfish
+ es: Salad Bar with Garbanzo Beans\nFruit: Fresh Apples\, Fresh Orange Wedg
+ es\nGrains: Pretzel Goldfish
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
