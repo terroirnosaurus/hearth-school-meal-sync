@@ -791,9 +791,9 @@ UID:2026-11-19-breakfast@school-meal-sync
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:🍞 Breakfast: Banana Bread Slice
-DESCRIPTION:Breakfast: Banana Bread Slice\nFruit: Fresh Bananas\, Fresh Ora
- nge Wedges
+SUMMARY:🍞 Breakfast: Zucchini Bread Slice
+DESCRIPTION:Breakfast: Zucchini Bread Slice\nFruit: Fresh Bananas\, Fresh O
+ range Wedges
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
