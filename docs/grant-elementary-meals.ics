@@ -454,9 +454,9 @@ UID:2026-12-02-lunch@school-meal-sync
 DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:🌮 Lunch: Chicken Taquitos or Bean Taquitos
-DESCRIPTION:Lunch: Chicken Taquitos or Bean Taquitos\nVegetables: Baby Carr
- ots\, Corn Niblets\, Mild Salsa\nFruit: Fresh Bananas\, Persimmon
+SUMMARY:🌮 Lunch: Bean Taquitos
+DESCRIPTION:Lunch: Bean Taquitos\nVegetables: Baby Carrots\, Corn Niblets\,
+  Mild Salsa\nFruit: Fresh Bananas\, Persimmon
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -532,9 +532,9 @@ UID:2026-12-08-breakfast@school-meal-sync
 DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:🌮 Breakfast: Egg & Cheese Breakfast Taco
-DESCRIPTION:Breakfast: Egg & Cheese Breakfast Taco\nFruit: Fresh Apples\, M
- andarin Oranges
+SUMMARY:🥞 Breakfast: Mini Maple Pancakes
+DESCRIPTION:Breakfast: Mini Maple Pancakes\nFruit: Fresh Apples\, Mandarin 
+ Oranges
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
